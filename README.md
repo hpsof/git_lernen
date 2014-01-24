@@ -1,4 +1,4 @@
 git_lernen
 ==========
 
-nur zum ueben
+nur zum ueben /hpsof
