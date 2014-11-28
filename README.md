@@ -1,6 +1,6 @@
 git_lernen
 ==========
 
-nur zum ueben /hpsof
+nur zum ueben /hpsof lokal
 
-changed : 03.09.2014 10:59:35
+changed : 28.11.2014 13:36:22
