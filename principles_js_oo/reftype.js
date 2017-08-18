@@ -16,8 +16,7 @@ console.log(typeof reflect);    // "function"
 /* seit ecma-script 5 | ab ie 9 : */
 var items = [];
 
-console.log(Array
-    .isArray(items));      // true
+console.log(Array.isArray(items));      // true
 
 /* built in ref-types:
  Array    | An ordered list of numerically indexed values
